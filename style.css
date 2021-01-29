@@ -1,0 +1,23 @@
+body {
+    background-color: #F96E46;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+    background-color: #00E8FC;
+    border-radius: 20px;
+    border-color: #545863;
+}
+button {
+    margin: 20px;
+}
+h1, h2 {
+    color: #F9C846;
+}
+#instructions{
+    background-color: #FFE3E3;
+
+}
+.list-group-item {
+    background-color: #FFE66D;
+}
