@@ -15,22 +15,22 @@
 //    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 function calculate() {
     console.log(document.getElementById('Data1').value - document.getElementById('Data2').value);
-    if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 1) {
+    if (document.getElementById('Data1').value - document.getElementById('Data2').value = 1) {
         document.getElementById("calculation").value = "pls bet 100";
     }
-    if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 2) {
+    if (document.getElementById('Data1').value - document.getElementById('Data2').value = 2) {
         document.getElementById("calculation").value = "pls bet 50";
     }
-    if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 3) {
+    if (document.getElementById('Data1').value - document.getElementById('Data2').value = 3) {
         document.getElementById("calculation").value = "pls bet max";
     }
-    if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 5) {
+    if (document.getElementById('Data1').value - document.getElementById('Data2').value = 5) {
         document.getElementById("calculation").value = "pls bet 50";
     }
-    if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 8) {
+    if (document.getElementById('Data1').value - document.getElementById('Data2').value = 8) {
         document.getElementById("calculation").value = "pls bet 50";
     }
-    if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 11) {
+    if (document.getElementById('Data1').value - document.getElementById('Data2').value = 11) {
         document.getElementById("calculation").value = "pls bet max";
     }
 }
