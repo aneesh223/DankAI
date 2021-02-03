@@ -14,19 +14,19 @@
 //    You should have received a copy of the GNU General Public License
 //    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 function calculate() {
-    console.log(document.getElementById("Data1").value - document.getElementById("Data2").value);
-    document.getElementById("calculation").value == "pls bet 100";
-    if (document.getElementById("Data1").value - document.getElementById("Data2").value == 1) {
-        document.getElementById("calculation").innerHTML == "pls bet 100";
-    } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 2) {
-        document.getElementById("calculation").innerHTML == "pls bet 50";
-    } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 3) {
-        document.getElementById("calculation").innerHTML == "pls bet max";
-    } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 5) {
-        document.getElementById("calculation").innerHTML == "pls bet 50";
-    } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 8) {
-        document.getElementById("calculation").innerHTML == "pls bet 50";
-    } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 11) {
-        document.getElementById("calculation").innerHTML == "pls bet max";
+    var num1 = document.getElementById("Data1").value;
+    var num2 = document.getElementById("Data2").value;
+    if (num1 - num2 == 1) {
+        document.getElementById("calculation").innerText = "pls bet 100";
+    } else if (num1 - num2 == 2) {
+        document.getElementById("calculation").innerText = "pls bet 50";
+    } else if (num1 - num2 == 3) {
+        document.getElementById("calculation").innerText = "pls bet max";
+    } else if (num1 - num2 == 5) {
+        document.getElementById("calculation").innerText = "pls bet 50";
+    } else if (num1 - num2 == 8) {
+        document.getElementById("calculation").innerText = "pls bet 50";
+    } else if (num1 - num2 == 11) {
+        document.getElementById("calculation").innerText = "pls bet max";
     }
 }
