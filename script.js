@@ -16,17 +16,17 @@
 function calculate() {
     console.log(document.getElementById("Data1").value - document.getElementById("Data2").value);
     document.getElementById("calculation").value == "pls bet 100";
-    /** if (document.getElementById("Data1").value - document.getElementById("Data2").value == 1) {
-        document.getElementById("calculation").value == "pls bet 100";
+    if (document.getElementById("Data1").value - document.getElementById("Data2").value == 1) {
+        document.getElementById("calculation").innerHTML == "pls bet 100";
     } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 2) {
-        document.getElementById("calculation").value == "pls bet 50";
+        document.getElementById("calculation").innerHTML == "pls bet 50";
     } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 3) {
-        document.getElementById("calculation").value == "pls bet max";
+        document.getElementById("calculation").innerHTML == "pls bet max";
     } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 5) {
-        document.getElementById("calculation").value == "pls bet 50";
+        document.getElementById("calculation").innerHTML == "pls bet 50";
     } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 8) {
-        document.getElementById("calculation").value == "pls bet 50";
+        document.getElementById("calculation").innerHTML == "pls bet 50";
     } else if (document.getElementById("Data1").value - document.getElementById("Data2").value == 11) {
-        document.getElementById("calculation").value == "pls bet max";
-    } **/
+        document.getElementById("calculation").innerHTML == "pls bet max";
+    }
 }
