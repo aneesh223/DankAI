@@ -15,21 +15,21 @@
 //    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 function calculate() {
     if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 1) {
-        document.getElementById('Data1').value = "pls bet 100";
+        document.getElementById('calculation').value = "pls bet 100";
     }
     if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 2) {
-        document.getElementById('Data1').value = "pls bet 50";
+        document.getElementById('calculation').value = "pls bet 50";
     }
     if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 3) {
-        document.getElementById('Data1').value = "pls bet max";
+        document.getElementById('calculation').value = "pls bet max";
     }
     if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 5) {
-        document.getElementById('Data1').value = "pls bet 50";
+        document.getElementById('calculation').value = "pls bet 50";
     }
     if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 8) {
-        document.getElementById('Data1').value = "pls bet 50";
+        document.getElementById('calculation').value = "pls bet 50";
     }
     if ((Number(document.getElementById('Data1').value) - Number(document.getElementById('Data2').value)) = 11) {
-        document.getElementById('Data1').value = "pls bet max";
+        document.getElementById('calculation').value = "pls bet max";
     }
 }
