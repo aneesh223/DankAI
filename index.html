@@ -34,25 +34,26 @@ DankAI - AI to help betters win Dank Memer Bets
     <center>
         <div class="container">
             <h1>Dank Memer AI</h1>
-            <h2>Put in the results from your last bet.</h2>
+            <h3>Bet 50 Dank Coins, and put in your results, or put in the results from your last bet (must be &lt1min
+                ago).</h3>
             <input placeholder="Your roll #" id="Data1">
             <input placeholder="Dank's roll #" id="Data2">
             <div>
                 <button type="button" class="btn btn-primary">Calculate Next Move</button>
-                <button type="button" class="btn btn-warning">Save data</button>
             </div>
             <div id="instructions" class="card" style="width: 23rem;">
                 <div class="card-body">
-                    <h1 class="card-title">How to win:</h5>
+                    <h1 class="card-title">Next Best Move</h5>
                         <ul class="list-group">
-                            <li class="card-text list-group-item">Step 1</li>
-                            <li class="card-text list-group-item">Step 2</li>
-                            <li class="card-text list-group-item">Step 3</li>
-                            <li class="card-text list-group-item">Step 4</li>
+                            <li class="card-text list-group-item" id="instuctions">
+                                <p class="text-light bg-dark" id="calculation">DankAI's Calculations</p>
+                            </li>
                         </ul>
                         <div class="row">
-                            <div class="col-sm"><button type="button" class="btn btn-outline-success">It worked!</button></div>
-                            <div class="col-sm"><button type="button" class="btn btn-outline-danger">It didn't :(</button></div>
+                            <div class="col-sm"><button type="button" class="btn btn-outline-success">It
+                                    worked!</button></div>
+                            <div class="col-sm"><button type="button" class="btn btn-outline-danger">It didn't
+                                    :(</button></div>
                         </div>
                 </div>
             </div>

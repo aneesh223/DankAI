@@ -28,7 +28,7 @@ input {
 button {
     margin: 20px;
 }
-h1, h2 {
+h1, h3 {
     color: #F9C846;
 }
 #instructions{
@@ -37,4 +37,8 @@ h1, h2 {
 }
 .list-group-item {
     background-color: #FFE66D;
+}
+#calculation {
+    border-radius: 5px;
+    height: 25px;
 }
