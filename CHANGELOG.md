@@ -1,31 +1,58 @@
-e606fdd Made changelog more detailed
-50e01b5 Added a proper changelog
-adcf9a4 Improvised license details
-68b3077 Update COPYING
-3886585 Merge pull request #1 from johndoe434/main
-8b90826 Added py file
-8029daa Update README.md
-43b997f All javascript errors fixed
-54c0bda Finally fixed!
-7db416f Just some debugging
-17cb7e3 Fixed basic syntax error lol
-6748ef1 Possible fix?
-a918d06 Possible syntax error fixed
-bfcf71a Changed file name and stuff in hope of possible fix
-a37fd1e Renamed file for possible fix
-aecf4ea Possible fix for javascript errors
-b12835f Possible fix?
-ddea39a Fixed mistake
-00d034b Added function for bets, with base set of values
-62d155c Cleaned a lot of excessive elements
-a12bfa2 Update README.md
-792b195 Update style.css
-f08a42c Update index.html
-20e83ff Update ai.js
-3cbee28 Update ai.js
-a30be50 Update README.md
-67d7d2e Delete COPYING.LESSER
-f0eeda3 Create COPYING
-d73502f Rename LICENSE to COPYING.LESSER
-599be96 Update README.md
-dee77b9 Initial commit
+Removed personal data
+206e9abf3bab5c338426175355d0f81295d3cf38
+Made changelog more detailed
+e606fdd3fc7af87149e8ea73693ad682cf47f399
+Added a proper changelog
+50e01b5ae552172bc1bef3dd87f19c68aae93121
+Improvised license details
+
+More details at https://www.gnu.org/licenses/gpl-howto.en.html
+adcf9a48544d9a45576b7d92d3e8563ca432706f
+Update COPYING68b30779c9b0a44d055ac308cf2c54abb67012f9
+Merge pull request #1 from johndoe434/main
+
+Added py file38865856867f3aa0b9d6dcb1a46cbca9dfee2d3b
+Added py file
+8b90826aec356ac12e7e8898a4f36663c64073cc
+Update README.md8029daa71cd5d8d4305eac8409f87fb87b33c6bc
+All javascript errors fixed
+43b997fd93f4768abdd8afb6419341fe60c713f6
+Finally fixed!
+54c0bda63d7c7c40ae23503b920ea48b41a002b4
+Just some debugging
+7db416fdbc703ef45dc2ec4417e728f851ef65fb
+Fixed basic syntax error lol
+17cb7e3fe1e114c10a3b485be58bec5282dc5eb6
+Possible fix?
+6748ef17f236a634bb1d74b8f7e14a70f0b943d8
+Possible syntax error fixed
+a918d06cc2a7c54b059b8c1375f2e3dc2f932eab
+Changed file name and stuff in hope of possible fix
+bfcf71aff80c83854fea151214626592b5a49022
+Renamed file for possible fix
+a37fd1ea69004f7a864f640cb22eaba4c64a793d
+Possible fix for javascript errors
+aecf4ea1148609a726d91431368d31868fbe9a91
+Possible fix?
+b12835f79927fb96bbe6932c0935a379be94ca09
+Fixed mistake
+
+Changed the function end id from Data1 to calculation, which is what it was supposed to be set to
+ddea39ad7c85510cf80ad7a7346185f5ea2e7feb
+Added function for bets, with base set of values
+00d034bf4fa9b2e902d06689494de0f0bf1a9ac0
+Cleaned a lot of excessive elements
+62d155cf0ff3254391b0de4dbee1e51de2cd9436
+Update README.md
+a12bfa28b3373dd1f011457d4377670af44107a4
+Update style.css792b1954f34c4a2c1d6cde960b7f45b69f86739e
+Update index.htmlf08a42c75d54c67be971519da6908fa2e4287910
+Update ai.js20e83ff060fcc90af9de34b088db14187bc67ed3
+Update ai.js3cbee289ad15e04ea8eddafbc1e1fb50de8a50af
+Update README.mda30be500bd857dd0db1eccbf315c29ba464c54cc
+Delete COPYING.LESSER67d7d2e83e03afaee6ec203c97bfbda3f78f7c1f
+Create COPYINGf0eeda32c9cd76a5ae3164ee4884672996494e31
+Rename LICENSE to COPYING.LESSERd73502fd02831f9a37303a9bb8adddae5a2eea3f
+Update README.md599be96b29963f178045bedd2c626da9b3b4f6c5
+Initial commit
+dee77b93ace6f79afa7779a67ae8de4542c6b099
